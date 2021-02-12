@@ -1,6 +1,6 @@
 # Wes Bos JavaScript30 - Challenge 30 
 
-This is the last challenge from the JavaScript30 challenge  
+This is the last challenge from the JavaScript30 challenge.  
 what fun it was to build all the funky and crazy apps following  
 a great tutor.
 
