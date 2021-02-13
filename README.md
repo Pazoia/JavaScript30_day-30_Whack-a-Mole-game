@@ -8,4 +8,9 @@ To end in style, Wes Bos is giving us the Whack a Mole game to
 build.
 
 Features:  
-* 
+* Game plays for 10 secs once started
+* Score of 1 point being added when a mole is clicked on
+
+Features to be added:  
+* Score list of highest scores
+* Adding different difficulty level
